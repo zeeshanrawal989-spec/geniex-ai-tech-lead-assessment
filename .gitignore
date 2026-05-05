@@ -9,5 +9,3 @@ build/
 venv/
 submission/
 grading_results.json
-solution.md
-decisions.md
